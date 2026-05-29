@@ -183,3 +183,5 @@ Available models (after `ollama pull`):
 | CORS error in browser | Already handled — `allow_origins=["*"]` is set |
 | Slow responses | Normal for first call (model loads into memory). Subsequent calls are faster. |
 | Port 8000 in use | Run with `--port 8001` and update the API URL in the frontend |
+<img width="1440" height="1240" alt="image" src="https://github.com/user-attachments/assets/72454d5b-49a1-4047-89b0-23598ae1d0ac" />
+
