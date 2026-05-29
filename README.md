@@ -3,7 +3,9 @@
 > A DSA / coding hint engine with 3 progressive hint levels.  
 > Built with **FastAPI** + **Ollama** (local LLM).
 
----
+Live demo:https://breadcrumbles-ai-5218.vercel.app/
+
+⚠️ Note: The AI backend currently runs locally using Ollama. To use the hint generation features, make sure Ollama is installed and running on your system along with the FastAPI backend server.
 
 ## What this project does
 
